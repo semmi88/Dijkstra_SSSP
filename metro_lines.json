@@ -1,0 +1,467 @@
+[
+  {
+    "line": "1",
+    "stations": [
+      {
+        "name": "Valdecarros",
+        "time": 0
+      },
+      {
+        "name": "Pacífico",
+        "time": 21
+      },
+      {
+        "name": "Sol",
+        "time": 31
+      },
+      {
+        "name": "Gran Vía",
+        "time": 33
+      },
+      {
+        "name": "Tribunal",
+        "time": 35
+      },
+      {
+        "name": "Bilbao",
+        "time": 36
+      },
+      {
+        "name": "Cuatro Caminos",
+        "time": 41
+      },
+      {
+        "name": "Plaza de Castilla",
+        "time": 49
+      },
+      {
+        "name": "Chamartín",
+        "time": 51
+      },
+      {
+        "name": "Pinar de Chamartín",
+        "time": 55
+      }
+    ]
+  },
+  {
+    "line": "2",
+    "stations": [
+      {
+        "name": "Las Rosas",
+        "time": 0
+      },
+      {
+        "name": "Ventas",
+        "time": 9
+      },
+      {
+        "name": "Manuel Becerra",
+        "time": 10
+      },
+      {
+        "name": "Goya",
+        "time": 12
+      },
+      {
+        "name": "Príncipe de Vergara",
+        "time": 13
+      },
+      {
+        "name": "Sol",
+        "time": 18
+      },
+      {
+        "name": "Ópera",
+        "time": 19
+      },
+      {
+        "name": "Noviciado",
+        "time": 22
+      },
+      {
+        "name": "San Bernardo",
+        "time": 23
+      },
+      {
+        "name": "Canal",
+        "time": 25
+      },
+      {
+        "name": "Cuatro Caminos",
+        "time": 27
+      }
+    ]
+  },
+  {
+    "line": "3",
+    "stations": [
+      {
+        "name": "Villaverde Alto",
+        "time": 0
+      },
+      {
+        "name": "Legazpi",
+        "time": 13
+      },
+      {
+        "name": "Embajadores",
+        "time": 17
+      },
+      {
+        "name": "Sol",
+        "time": 20
+      },
+      {
+        "name": "Callao",
+        "time": 22
+      },
+      {
+        "name": "Plaza de España",
+        "time": 23
+      },
+      {
+        "name": "Argüelles",
+        "time": 26
+      },
+      {
+        "name": "Moncloa",
+        "time": 27
+      }
+    ]
+  },
+  {
+    "line": "4",
+    "stations": [
+      {
+        "name": "Argüelles",
+        "time": 4
+      },
+      {
+        "name": "San Bernardo",
+        "time": 6
+      },
+      {
+        "name": "Bilbao",
+        "time": 7
+      },
+      {
+        "name": "Alonso Martínez",
+        "time": 8
+      },
+      {
+        "name": "Goya",
+        "time": 13
+      },
+      {
+        "name": "Diego de León",
+        "time": 16
+      },
+      {
+        "name": "Avenida de América",
+        "time": 17
+      },
+      {
+        "name": "Mar de Cristal",
+        "time": 29
+      },
+      {
+        "name": "Pinar de Chamartín",
+        "time": 37
+      }
+    ]
+  },
+  {
+    "line": "5",
+    "stations": [
+      {
+        "name": "Casa de Campo",
+        "time": 3
+      },
+      {
+        "name": "Oporto",
+        "time": 15
+      },
+      {
+        "name": "Acacias",
+        "time": 22
+      },
+      {
+        "name": "Ópera",
+        "time": 27
+      },
+      {
+        "name": "Callao",
+        "time": 29
+      },
+      {
+        "name": "Gran Vía",
+        "time": 31
+      },
+      {
+        "name": "Alonso Martínez",
+        "time": 34
+      },
+      {
+        "name": "Núñez de Balboa",
+        "time": 37
+      },
+      {
+        "name": "Diego de León",
+        "time": 38
+      },
+      {
+        "name": "Ventas",
+        "time": 41
+      },
+      {
+        "name": "Pueblo Nuevo",
+        "time": 45
+      },
+      {
+        "name": "Alameda de Osuna",
+        "time": 55
+      }
+    ]
+  },
+  {
+    "line": "6",
+    "stations": [
+      {
+        "name": "Nuevos Ministerios",
+        "time": 1
+      },
+      {
+        "name": "Avenida de América",
+        "time": 4
+      },
+      {
+        "name": "Diego de León",
+        "time": 6
+      },
+      {
+        "name": "Manuel Becerra",
+        "time": 7
+      },
+      {
+        "name": "Sainz de Baranda",
+        "time": 10
+      },
+      {
+        "name": "Pacífico",
+        "time": 14
+      },
+      {
+        "name": "Legazpi",
+        "time": 19
+      },
+      {
+        "name": "Oporto",
+        "time": 27
+      },
+      {
+        "name": "Príncipe Pío",
+        "time": 40
+      },
+      {
+        "name": "Argüelles",
+        "time": 42
+      },
+      {
+        "name": "Moncloa",
+        "time": 44
+      },
+      {
+        "name": "Guzmán el Bueno",
+        "time": 50
+      },
+      {
+        "name": "Cuatro Caminos",
+        "time": 52
+      },
+      {
+        "name": "Nuevos Ministerios",
+        "time": 53
+      }
+    ]
+  },
+  {
+    "line": "7",
+    "stations": [
+      {
+        "name": "Pitis",
+        "time": 1
+      },
+      {
+        "name": "Guzmán el Bueno",
+        "time": 13
+      },
+      {
+        "name": "Canal",
+        "time": 17
+      },
+      {
+        "name": "Gregorio Marañón",
+        "time": 20
+      },
+      {
+        "name": "Avenida de América",
+        "time": 22
+      },
+      {
+        "name": "Pueblo Nuevo",
+        "time": 28
+      },
+      {
+        "name": "Estadio Metropolitano",
+        "time": 37
+      }
+    ]
+  },
+  {
+    "line": "8",
+    "stations": [
+      {
+        "name": "Nuevos Ministerios",
+        "time": 4
+      },
+      {
+        "name": "Colombia",
+        "time": 6
+      },
+      {
+        "name": "Mar de Cristal",
+        "time": 11
+      },
+      {
+        "name": "Aeropuerto T4",
+        "time": 22
+      }
+    ]
+  },
+  {
+    "line": "9",
+    "stations": [
+      {
+        "name": "Mirasierra",
+        "time": 7
+      },
+      {
+        "name": "Plaza de Castilla",
+        "time": 15
+      },
+      {
+        "name": "Colombia",
+        "time": 19
+      },
+      {
+        "name": "Avenida de América",
+        "time": 24
+      },
+      {
+        "name": "Núñez de Balboa",
+        "time": 26
+      },
+      {
+        "name": "Príncipe de Vergara",
+        "time": 28
+      },
+      {
+        "name": "Sainz de Baranda",
+        "time": 31
+      },
+      {
+        "name": "Arganda de Rey",
+        "time": 47
+      }
+    ]
+  },
+  {
+    "line": "10",
+    "stations": [
+      {
+        "name": "Puerta del Sur",
+        "time": 7
+      },
+      {
+        "name": "Casa de Campo",
+        "time": 18
+      },
+      {
+        "name": "Príncipe Pío",
+        "time": 25
+      },
+      {
+        "name": "Plaza de España",
+        "time": 27
+      },
+      {
+        "name": "Tribunal",
+        "time": 28
+      },
+      {
+        "name": "Alonso Martínez",
+        "time": 30
+      },
+      {
+        "name": "Gregorio Marañón",
+        "time": 32
+      },
+      {
+        "name": "Nuevos Ministerios",
+        "time": 33
+      },
+      {
+        "name": "Plaza de Castilla",
+        "time": 38
+      },
+      {
+        "name": "Chamartín",
+        "time": 40
+      },
+      {
+        "name": "Tres Olivos",
+        "time": 45
+      }
+    ]
+  },
+  {
+    "line": "R",
+    "stations": [
+      {
+        "name": "Príncipe Pío",
+        "time": 0
+      },
+      {
+        "name": "Ópera",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "line": "T1",
+    "stations": [
+      {
+        "name": "Acacias",
+        "time": 0
+      },
+      {
+        "name": "Embajadores",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "line": "T2",
+    "stations": [
+      {
+        "name": "Plaza de España",
+        "time": 0
+      },
+      {
+        "name": "Noviciado",
+        "time": 4
+      }
+    ]
+  }
+]
